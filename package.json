@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "realm": "^2.20.1"
+  },
+  "scripts": {
+      "clean": "rm -rf default.realm*"
   }
 }
