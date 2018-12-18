@@ -3,6 +3,6 @@
     "realm": "^2.20.1"
   },
   "scripts": {
-      "clean": "rm -rf default.realm*"
+      "clean": "rm -rf default.realm* realm-object-server"
   }
 }
